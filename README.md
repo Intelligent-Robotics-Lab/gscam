@@ -1,3 +1,5 @@
+Forked from gscam, added YUV422 support and Pepper related files in dev branch
+
 GSCam
 =====
 
